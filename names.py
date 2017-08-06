@@ -6,6 +6,7 @@ students = [
      {'first_name' : 'KB', 'last_name' : 'Tonel'}
 ]
 print 'Executing Part 1 of Assignment'
+print ('\n')
 for i in range(len(students)):
 	for key in students[i]:
 		print students[i][key],
@@ -26,6 +27,7 @@ users = {
  }
 
 print 'Executing Part 2 of the Assignment'
+print ('\n')
 for key in users:
 	print key
 	for i in range(len(users[key])):
