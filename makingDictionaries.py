@@ -2,7 +2,7 @@
 	Date: Aug-6-2017
 	Author: Shyam Gupta
 	Assignment Name: Making Dictionaries
-	Program accepts two lists (keys & values) and prints out a dictionary
+	Program accepts two lists (keys & values) of equal length and prints out a dictionary
 '''
 
 # Function Definition
