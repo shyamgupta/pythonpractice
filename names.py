@@ -27,6 +27,7 @@ users = {
 
 print 'Executing Part 2 of the Assignment'
 for key in users:
+	print key
 	for i in range(len(users[key])):
 		print i+1 , ' - ',
 		sum =0
